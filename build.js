@@ -416,4 +416,4 @@ function addNewHobby() {
     html2pdf().set(options).from(element).toContainer().toCanvas().toPdf().save();
   });
   
-  // ===============================Function to download the pdf ends here================================
+  // ===============================Function to dsownload the pdf ends here================================
